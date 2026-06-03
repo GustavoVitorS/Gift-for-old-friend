@@ -66,6 +66,7 @@ After uploading the files to a GitHub repository:
 3. Select the `main` branch.
 4. Choose the `/root` folder.
 5. Save and wait for GitHub Pages to generate the website link.
+6. Deploy: https://gustavovitors.github.io/Gift-for-old-friend/
 
 ## About
 
